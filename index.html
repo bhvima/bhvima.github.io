@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="jumbotron jumbotron-fluid">
+      <div class="container p-4">
+        <h1 class="display-5"><a href="{{ site.baseurl }}{{ post.url }}" class="text-decoration-none text-dark">{{ post.title }}</a></h1>
+
+        <div class="lead">
+          <p>
+            {{ post.excerpt }}
+          </p>
+        </div>
+
+        <a class="btn btn-outline-dark btn-sm" href="{{ site.baseurl }}{{ post.url }}" role="button">Learn more</a>
+      </div>
+    </article>
+  {% endfor %}
+</div>
