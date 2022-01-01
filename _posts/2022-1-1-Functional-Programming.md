@@ -1,6 +1,7 @@
----
+--- 
 layout: post
-title: Functional Programming : Scala
+title: Functional Programming - Scala
+excerpt: Writing code in an entirely functional style without using loops, if-else statements and mutable states.
 ---
 
 Scala is a multi-paradigm language - a mix of both object oriented and functional styles. Now let us strip the object oriented programming aspect and write code in an entirely functional style. 
