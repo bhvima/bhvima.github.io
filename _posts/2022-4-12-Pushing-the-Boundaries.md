@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Pushing the Boundaries
+usemathjax: true
 ---
 
 Solving a seemingly exponentially hard problem in polynomial time 
