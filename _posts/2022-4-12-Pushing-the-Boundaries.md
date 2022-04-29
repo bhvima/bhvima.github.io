@@ -21,4 +21,4 @@ Given a configuration of spins we can define the energy using what is referred t
 
 $$H = -\frac{J}{k}\sum_{<ij>} s_is_j + \tfrac{\mu}{k}\sum_i s_i$$
 
-where, \(s_i=1\) if the \(i^{th}\) spin is up and \(s_i=-1\) if it is down, and the brackets \(<ij>\) indicate a sum over spins that are connected, and J is a constant that determines the energy scale. The energy here has been divided by the Boltzmann constant to yield units of temperature.
+where, \\(s_i=1\\) if the \\(i^{th}\\) spin is up and \\(s_i=-1\\) if it is down, and the brackets \\(<ij>\\) indicate a sum over spins that are connected, and J is a constant that determines the energy scale. The energy here has been divided by the Boltzmann constant to yield units of temperature.
